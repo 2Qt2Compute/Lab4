@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/01d@2x.png</file>
+        <file>resources/02d@2x.png</file>
+        <file>resources/03d@2x.png</file>
+        <file>resources/04d@2x.png</file>
+        <file>resources/09d@2x.png</file>
+        <file>resources/10d@2x.png</file>
+        <file>resources/11d@2x.png</file>
+        <file>resources/13d@2x.png</file>
+        <file>resources/50d@2x.png</file>
+        <file>resources/Water_background.jpeg</file>
+        <file>resources/sunset.jpg</file>
+        <file>resources/5k_water.jpg</file>
+        <file>resources/5k1.jpg</file>
+        <file>resources/8k.jpeg</file>
+        <file>resources/refresh-iconsrepo-com (1).png</file>
+        <file>resources/icon-ios7-refresh-128.png</file>
+        <file>resources/Keeks.jpg</file>
+        <file>resources/will.jpg</file>
+        <file>resources/reegs.jpg</file>
+        <file>resources/RAs.jpg</file>
+    </qresource>
+</RCC>

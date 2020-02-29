@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resources/50d@2x.png</file>
+    <file>resources/13d@2x.png</file>
+    <file>resources/11d@2x.png</file>
+    <file>resources/09d@2x.png</file>
+    <file>resources/04d@2x.png</file>
+    <file>resources/03d@2x.png</file>
+    <file>resources/02d@2x.png</file>
+    <file>resources/01d@2x.png</file>
+    <file>resources/10d@2x.png</file>`
+</qresource>
+</RCC>
